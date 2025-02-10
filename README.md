@@ -6,4 +6,5 @@ Results:
 
 SingeThreaded VS Multithreaded:
 
-![SingleThreaded](https://github.com/user-attachments/assets/ea20e8fa-defb-48b7-83fc-6f5d64cb4463)
+![SingleThreaded](https://github.com/user-attachments/assets/ea20e8fa-defb-48b7-83fc-6f5d64cb4463) VS ![MultiThreaded](https://github.com/user-attachments/assets/ec5aa0fd-977d-4b92-8abf-a4aba4337051)
+
